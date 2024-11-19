@@ -1,1 +1,1 @@
-## Doğal Dil İşleme
+# Doğal Dil İşleme
